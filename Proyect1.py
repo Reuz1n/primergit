@@ -1,4 +1,1 @@
-class Person:
-    pass
-
-#hola pepe
+print("Reuz baviera es tremendo puto")
