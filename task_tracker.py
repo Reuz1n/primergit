@@ -1,6 +1,7 @@
 import json
 import os
-import argparse
+import argparse  #libreria nazi para terminal(leer documentacion)
+
 
 # nombre del .json
 tasks_file = 'tasks.json'
